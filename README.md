@@ -2,6 +2,9 @@
 
 A Power BI dashboard providing an interactive analysis of SN Corp's sales, costs, profits, and trends from **01/01/2017 to 23/12/2020**. This dashboard enables businesses to derive actionable insights and make data-driven decisions.
 
+here is a link to the powerbi dashboard, if you would like to interact with it : 
+https://app.powerbi.com/groups/me/reports/eacbb10a-eb51-498f-af66-977e46697276/e449fb8b970237ab673d?experience=power-bi
+
 ---
 
 ## 🚀 Key Features
