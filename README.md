@@ -73,7 +73,7 @@ Feel free to fork this project, suggest improvements, or raise issues. PRs are w
 ---
 
 ## 📧 Contact
-For any questions or suggestions, reach out at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, reach out at rujulsk@gmail.com.
 
 ---
 
